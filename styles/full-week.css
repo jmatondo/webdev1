@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  margin: 50px;
+}
+a {
+  text-decoration: none;
+}
+
+header p {
+  color: green;
+}
+
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 30px auto 0 auto;
+}
+
+li {
+  background-color: lightblue;
+  border-radius: 6px;
+}
+
+h2 {
+  color: rgb(78, 13, 5);
+}
