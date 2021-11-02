@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Thisis another commit
+=======
+This is commit 2
+>>>>>>> feature
